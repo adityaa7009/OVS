@@ -8,6 +8,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq!
 :q!
 :q
 :w
@@ -23,13 +24,16 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/ovs/README.rst
-'1  6  0  ~/VM2flow.txt
-'2  47  5  ~/h3h4s2.py
-'3  1  0  ~/h3h4s2
-'4  1  0  ~/h1h1s1.py
+'0  7  44  ~/.git/config
+'1  1  0  ~/ovs/README.rst
+'2  6  0  ~/VM2flow.txt
+'3  47  5  ~/h3h4s2.py
+'4  1  0  ~/h3h4s2
+'5  1  0  ~/h1h1s1.py
 
 # Jumplist (newest first):
+-'  7  44  ~/.git/config
+-'  1  0  ~/.git/config
 -'  1  0  ~/ovs/README.rst
 -'  6  0  ~/VM2flow.txt
 -'  1  0  ~/VM2flow.txt
@@ -67,8 +71,70 @@
 -'  1  0  ~/h3h4s2
 -'  1  0  ~/h1h1s1.py
 -'  1  0  ~/h1h1s1.py
+-'  1  0  ~/ovs/README.rst
+-'  6  0  ~/VM2flow.txt
+-'  1  0  ~/VM2flow.txt
+-'  47  5  ~/h3h4s2.py
+-'  1  0  ~/h3h4s2.py
+-'  1  0  ~/h3h4s2
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h3h4s2
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h1h1s1.py
+-'  47  5  ~/h3h4s2.py
+-'  1  0  ~/h3h4s2.py
+-'  1  0  ~/h3h4s2
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h3h4s2
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h1h1s1.py
+-'  6  0  ~/VM2flow.txt
+-'  1  0  ~/VM2flow.txt
+-'  47  5  ~/h3h4s2.py
+-'  1  0  ~/h3h4s2.py
+-'  1  0  ~/h3h4s2
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h3h4s2
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h1h1s1.py
+-'  47  5  ~/h3h4s2.py
+-'  1  0  ~/h3h4s2.py
+-'  1  0  ~/h3h4s2
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h3h4s2
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/ovs/README.rst
+-'  6  0  ~/VM2flow.txt
+-'  1  0  ~/VM2flow.txt
+-'  47  5  ~/h3h4s2.py
+-'  1  0  ~/h3h4s2.py
+-'  1  0  ~/h3h4s2
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h3h4s2
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h1h1s1.py
+-'  47  5  ~/h3h4s2.py
+-'  1  0  ~/h3h4s2.py
+-'  1  0  ~/h3h4s2
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h3h4s2
+-'  1  0  ~/h1h1s1.py
+-'  1  0  ~/h1h1s1.py
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/config
+	"	7	44
+	^	7	45
+	.	7	7
+	+	7	7
 
 > ~/ovs/README.rst
 	"	1	0
