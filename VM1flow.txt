@@ -1,0 +1,6 @@
+table=0,dl_type=0x0800,dl_dst=06:00:00:00:00:00,tun_id=0x1,action=mod_dl_dst:00:00:00:00:00:01,output:1
+table=0,dl_type=0x0800,dl_dst=06:00:00:00:00:00,tun_id=0x2,action=mod_dl_dst:00:00:00:00:00:02,output:2
+table=0,in_port=1,dl_type=0x0800,action=set_field:192.168.56.103->tun_dst,set_field:0x1->tun_id,output:10
+table=0,in_port=2,dl_type=0x0800,action=set_field:192.168.56.103->tun_dst,set_field:0x2->tun_id,output:10
+# Normal action for all other flows. This ensures that arp is not forwarded through the tunnel
+table=0,dl_type=0x0806,action=NORMAL
